@@ -2,7 +2,7 @@
 
 Below is a collection of resources for anyone interested in exploring UMA with beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
 
-<b><u>Start by checking out our 2019 events:</b></u>
+<b>Start by checking out our 2019 events:</b>
 <br><b>Upcoming</b>
 <br>October 14-15 in Beijing: Dragonfly Investor Conference
 <br>October 17 6:30pm in NYC: [Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens](https://www.eventbrite.com/e/building-a-bitcoinusd-yield-curve-with-keep-network-uma-uniswap-and-ytokens-tickets-74828946393 "Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens")
@@ -16,7 +16,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>Hall D: BitDEX: Building a Decentralized BitMEX
 <br>Oct 7 in Osaka: [The path from overcollateralization to undercollateralization](http://defi.wtf/)
 <br> Oct 5 in Tokyo: [node.tokyo How to scale DeFi to $T of value](https://nodetokyo.jp/schedule/)
-<br>Oct 3 in NYC: [DeFi NYC Demo Day](https://www.meetup.com/DeFiNYC/events/265090673/)
+<br>Oct 3 in NYC: [DeFi NYC: Demo Day](https://www.meetup.com/DeFiNYC/events/265090673/)
 <br>Oct 1 in NYC: [TQuorum DeFi meets CeFi Panel](http://tquorum.com/)
 <br>Sept 16 in NYC: [NYC Blockchain Devs: Intro to DeFi and Financial Derivatives on the Blockchain](https://www.meetup.com/nyc-blockchain-devs/events/264896876/)
 <br>Sep 10-11 in London: [How to scale DeFi to $T of value](https://defisumm.it), [Video](https://www.youtube.com/watch?v=T-AbXAeTKtQ)
@@ -32,7 +32,8 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>April 26 at IDEO: [Crypto Builders Day](https://www.ideocolab.com/startupstudio/)
 <br>April 23 in NYC: RoundTable lunch at CryptoNYC
 
-<br><b><u>2019 Interviews, podcasts, and press</b></u>
+<br><b>2019 Interviews, podcasts, and press</b>
+<br>Sep 24: [MakerDAO Community Call demo'ing the Synthetic Token Builder](https://www.reddit.com/r/MakerDAO/comments/d8agu0/meeting_makerdao_community_calltuesday_september/)
 <br>Sep 21: [DeFi Nation Interview, video](https://www.facebook.com/claytonroche/videos/10100166889050346/)
 <br>Sep 19: [Spencer Noon, Crypto AMA, written](https://t.me/c/1477285922/4102)
 <br>Sep 12: [TheBlockCrypto: Coinbase-backed startup now enables users to tokenize the price of anything](https://www.theblockcrypto.com/linked/39355/a-coinbase-backed-startup-now-enables-users-to-tokenize-the-price-of-anything/)
@@ -40,10 +41,10 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>April 13: [Crux of Crypto podcast ep.5: Creating Synthetic Derivatives on the Blockchain](http://cruxofcrypto.com/e05-creating-synthetic-derivatives-on-the-blockchain-with-hart-lambur-of-uma/)
 <br>March 27: [TheBlockCrypto: A crypto venture is launching a tokenized version of the stock market](https://www.theblockcrypto.com/2019/03/27/a-crypto-venture-is-launching-a-tokenized-version-of-the-stock-market/)
 
-<br><b><u>Learning Resource Center</b></u>
+<br><b>Learning Resource Center</b>
 <br>Read our [whitepapers](https://github.com/UMAprotocol/whitepaper) - last updated July 11, 2019
 <br>Read our [research paper](https://twitter.com/UMAprotocol/status/1179045704918011906) on using priceless contract design to build a decentralized BitMEX - last updated Sep 30, 2019
-<br>Create a custom synthetic token on Rinkeby using the UMA Synthetic Token Builder [tool](http://tokenbuilder.umaproject.org), [intro](https://medium.com/uma-project/announcing-the-uma-synthetic-token-builder-8bf37c645e94)
+<br>Create a Rinkeby custom token using the Synthetic Token Builder [tool](http://tokenbuilder.umaproject.org), [intro](https://medium.com/uma-project/announcing-the-uma-synthetic-token-builder-8bf37c645e94)
 <br>Join our [developer slack](https://join.slack.com/t/umaprotocol/shared_invite/enQtNTk4MjQ4ODY0MDA1LWZiYjg3ODY2M2MwZGQ3MDVjZDc1ZjUwNDJkMTA5NDZlNzFlZDYxYmQxOTAwNTY1NmZlNGRjY2IxYzUzNjQ0YjI) to be part of the conversation
 <br>Sep 11: [DeFi Prime Interview](https://defiprime.com/uma)
 <br>August 8: [Adding Economic Guarantees to Blockchain Oracles](https://medium.com/uma-project/umas-data-verification-mechanism-3c5342759eb8)
