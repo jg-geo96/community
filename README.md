@@ -12,7 +12,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 
 <br><b>Past</b>
 <br>Oct 8-11 at Devcon5 Osaka
-<br>Room B2: [Building Synthetic Derivatives on Ethereum, slides](https://docsend.com/view/3v6t329)
+<br>Room B2: Building Synthetic Derivatives on Ethereum, [Slides](https://docsend.com/view/3v6t329)
 <br>Hall D: BitDEX: Building a Decentralized BitMEX
 <br>Oct 7 in Osaka: [The path from overcollateralization to undercollateralization](http://defi.wtf/)
 <br> Oct 5 in Tokyo: [node.tokyo How to scale DeFi to $T of value](https://nodetokyo.jp/schedule/)
@@ -47,7 +47,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>Join our [developer slack](https://join.slack.com/t/umaprotocol/shared_invite/enQtNTk4MjQ4ODY0MDA1LWZiYjg3ODY2M2MwZGQ3MDVjZDc1ZjUwNDJkMTA5NDZlNzFlZDYxYmQxOTAwNTY1NmZlNGRjY2IxYzUzNjQ0YjI) to be part of the conversation
 <br>Sep 11: [DeFi Prime Interview](https://defiprime.com/uma)
 <br>August 8: [Adding Economic Guarantees to Blockchain Oracles](https://medium.com/uma-project/umas-data-verification-mechanism-3c5342759eb8)
-<br>August 5: [How to trade the price of time, or an Interest Rate Swaps Workshop, video](https://youtu.be/TRITa2JJIyU)
+<br>August 5: How to trade the price of time, or an Interest Rate Swaps Workshop, [Video](https://youtu.be/TRITa2JJIyU)
 <br>July 23: [Liquidity Mechanisms for Derivatives](https://medium.com/uma-project/liquidity-mechanisms-for-derivatives-5568cc688b57)
 <br>July 16: [Intro to Synthetic Derivatives](https://medium.com/uma-project/intro-to-blockchain-based-synthetic-derivatives-d3a61f3e6e79)
 
