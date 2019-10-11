@@ -4,7 +4,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 
 <b>Start by checking out our 2019 events:</b>
 <br><b>Upcoming</b>
-<br>October 14-15 in Beijing: Dragonfly Investor Conference
+<br>October 14-15 in Beijing: Dragonfly Crypto Summit
 <br>October 17 6:30pm in NYC: [Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens](https://www.eventbrite.com/e/building-a-bitcoinusd-yield-curve-with-keep-network-uma-uniswap-and-ytokens-tickets-74828946393 "Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens")
 <br> October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
 <br>October 28-29 at UC Berkeley: [Hart Lambur presents UMA's Decentralized Verification Mechanism at CESC](https://cesc.io)
