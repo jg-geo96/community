@@ -28,7 +28,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>May 17-19 at [ETHNY Hackathon](https://ethnewyork.com/#schedule), [Synthetic Assets Panel](https://www.youtube.com/watch?v=9y5jz8B5HNU), [Bounty submissions](https://ethnewyork.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=30342)
 <br>May 15 in NYC: [A Morning Dose of DeFi](https://www.eventbrite.com/e/morning-dose-of-defi-tickets-60666470045)
 <br>May 9 in NYC: [DeFi for Crypto Traders Night](https://www.eventbrite.com/e/defi-for-crypto-traders-tickets-60421006858#), [Video](https://www.youtube.com/watch?v=F0TD08Gw6lY)
-<br>April 28 at UC Berkeley: [DeFi Panel](https://www.recolor.io)
+<br>April 28 at UC Berkeley: [she256 DeFi panel](https://youtu.be/4np_2K8WNPU?t=7848)
 <br>April 26 at IDEO: [Crypto Builders Day](https://www.ideocolab.com/startupstudio/)
 <br>April 23 at CryptoNYC: RoundTable
 
