@@ -14,7 +14,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>Oct 8-11 at Devcon5 Osaka
 <br>Room B2: Building Synthetic Derivatives on Ethereum, [Slides](https://docsend.com/view/3v6t329)
 <br>Hall D: BitDEX: Building a Decentralized BitMEX, [Slides](https://docs.google.com/presentation/d/19SuDaniZD7alZVsPDHIIpHBVKRJfMe9bRFVnBqqIoJA/edit?usp=sharing)
-<br>Oct 7 in Osaka: [The path from overcollateralization to undercollateralization](http://defi.wtf/)
+<br>Oct 7 in Osaka: The path from overcollateralization to undercollateralization, [video at 6:16](https://youtu.be/M8fBFhi-EE0)
 <br> Oct 5 in Tokyo: [node.tokyo How to scale DeFi to $T of value](https://nodetokyo.jp/schedule/)
 <br>Oct 3 in NYC: [DeFi NYC: Demo Day](https://www.meetup.com/DeFiNYC/events/265090673/)
 <br>Oct 1 in NYC: [TQuorum DeFi meets CeFi Panel](http://tquorum.com/)
