@@ -23,8 +23,10 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>Sep 10-11 in London: [How to build synthetic derivatives on Ethereum](https://defisumm.it), [Video](https://www.youtube.com/watch?v=KxL4oJN4Adw&list=PLhbK0NpGv8dWsjLpYA-OM4gQk-GdQe7X2&index=14&t=190s)
 <br>Sep 10 in London: [Who really cares about decentralization anyway?](https://www.meetup.com/0xCommunity/events/264324368/), [Video](https://www.youtube.com/watch?v=i_-ujemOF7Y&feature=youtu.be)
 <br>Sep 6-8 at [ETH Boston Hackathon + DeFi panel + workshop](https://eth.boston/#schedule), [Bounty submissions](https://ethboston.devpost.com/submissions/search?utf8=✓&prize_filter%5Bprizes%5D%5B%5D=31158)
+<br>August 15 in SF: Cross-Chain Summit
 <br>August 6 in NYC: [Blockchain DebateX](https://www.eventbrite.com/e/two-sigma-ventures-presents-debatex-blockchain-tickets-65440677829?)
 <br>July 31 at CryptoNYC [Adding Economic Guarantees to Blockchain Oracles](https://www.meetup.com/Crypto-NYC/events/263295980/?rv=me1&_xtd=gatlbWFpbF9jbGlja9oAJDI1MTE0MmI5LTI0ZjEtNDQ1NC04MjUzLWI3MjcxZTQ2NGY4Yg&_af=event&_af_eid=263295980)
+<br>June in Toronto: Scaling Eth [presentation](http://bit.ly/UMA-Scaling-ETH)
 <br>May 17-19 at [ETHNY Hackathon](https://ethnewyork.com/#schedule), [Synthetic Assets Panel](https://www.youtube.com/watch?v=9y5jz8B5HNU), [Bounty submissions](https://ethnewyork.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=30342)
 <br>May 15 in NYC: [A Morning Dose of DeFi](https://www.eventbrite.com/e/morning-dose-of-defi-tickets-60666470045)
 <br>May 9 in NYC: [DeFi for Crypto Traders Night](https://www.eventbrite.com/e/defi-for-crypto-traders-tickets-60421006858#), [Video](https://www.youtube.com/watch?v=F0TD08Gw6lY)
