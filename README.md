@@ -4,13 +4,13 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 
 <b>Start by checking out our 2019 events:</b>
 <br><b>Upcoming</b>
-<br>October 14-15 in Beijing: Dragonfly Crypto Summit
-<br>October 17 6:30pm in NYC: [Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens](https://www.eventbrite.com/e/building-a-bitcoinusd-yield-curve-with-keep-network-uma-uniswap-and-ytokens-tickets-74828946393 "Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens")
 <br> October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
 <br>October 28-29 at UC Berkeley: [Hart Lambur presents UMA's Decentralized Verification Mechanism at CESC](https://cesc.io)
 <br>November 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
 
 <br><b>Past</b>
+<br>October 17 in NYC: Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens, [Video](https://youtu.be/5Ky78wFFHjk)
+<br>October 14-15 in Beijing: Dragonfly Crypto Summit
 <br>Oct 8-11 at Devcon5 Osaka
 <br>Room B2: Building Synthetic Derivatives on Ethereum, [Slides](https://docsend.com/view/3v6t329)
 <br>Hall D: BitDEX: Building a Decentralized BitMEX, [Slides](https://docs.google.com/presentation/d/19SuDaniZD7alZVsPDHIIpHBVKRJfMe9bRFVnBqqIoJA/edit?usp=sharing)
@@ -33,6 +33,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>April 23 at CryptoNYC: RoundTable
 
 <br><b>2019 Interviews, podcasts, and press</b>
+<br>Oct 15: [Huoxing coverage at Dragonfly Summit](https://m.huoxing24.com/newsdetailShare/20191016004957841961.html?from=singlemessage&isappinstalled=0)
 <br>Sep 24: [MakerDAO Community Call demo'ing Synthetic Token Builder](https://www.reddit.com/r/MakerDAO/comments/d8agu0/meeting_makerdao_community_calltuesday_september/)
 <br>Sep 21: [DeFiNation, video](https://www.facebook.com/claytonroche/videos/10100166889050346/)
 <br>Sep 19: [Crypto AMA w/SpencerNoon, written](https://t.me/c/1477285922/4102)
