@@ -35,6 +35,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>April 23 at CryptoNYC: RoundTable
 
 <br><b>2019 Interviews, podcasts, and press</b>
+<br>Oct 21: [RelayNode NYC #24](https://www.definancier.com/blog/2019/10/6/relaynode-new-york-city-may-13-4szr9-hegke-s5zxx-hkp9m-g5xz2-gachk-fkncp-d8bam-2azxd-nz6pe-fmk23-wdywx-grhly-sheye-5wztw)
 <br>Oct 15: [Huoxing coverage at Dragonfly Summit](https://m.huoxing24.com/newsdetailShare/20191016004957841961.html?from=singlemessage&isappinstalled=0)
 <br>Sep 24: [MakerDAO Community Call demo'ing Synthetic Token Builder](https://www.reddit.com/r/MakerDAO/comments/d8agu0/meeting_makerdao_community_calltuesday_september/)
 <br>Sep 21: [DeFiNation, video](https://www.facebook.com/claytonroche/videos/10100166889050346/)
