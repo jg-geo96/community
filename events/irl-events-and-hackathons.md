@@ -9,6 +9,6 @@
 ### Places we have been \(with links to videos and presentations\):
 
 * June 5, 2019 @ Scaling Ethereum \(Toronto Canada\): Hart Lambur presents _UMA Data Verification Mechanism: Economic Guarantees for Blockchain Oracles_ \([video](https://youtu.be/khag2GBYYew?t=2086), [slides](https://t.co/z2LaJReIho?amp=1), [tweetstorm](https://twitter.com/hal2001/status/1149466877543845888)\)
-* September 11 @ DefiSummit \(London UK\): Allison Lu presents ...
-* September 11 @ DefiSummit \(London UK\): Regina Cai presents ...
+* September 11 @ DefiSummit \(London UK\): Allison Lu presents _How to Securely Scale Financial Smart Contracts to $1 Trillion_ ([video](https://youtu.be/T-AbXAeTKtQ)
+* September 11 @ DefiSummit \(London UK\): Regina Cai presents _Building Synthetic Derivatives on Ethereum_ ([video](https://youtu.be/KxL4oJN4Adw)
 
