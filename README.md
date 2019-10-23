@@ -4,7 +4,8 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 
 <b>Start by checking out our 2019 events:</b>
 <br><b>Upcoming</b>
-<br> October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
+<br>October 24 in NY: [dlab roundtable](https://www.eventbrite.com/e/dlab-deep-dives-tickets-75203047339)
+<br>October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
 <br>October 28-29 at UC Berkeley: [Hart Lambur presents UMA's Decentralized Verification Mechanism at CESC](https://cesc.io)
 <br>November 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
 
