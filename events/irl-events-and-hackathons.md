@@ -1,6 +1,6 @@
 <br><b>Upcoming</b>
 <br>Nov 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
-<br>Nov 13 in NYC: CoinShares presents Interoperability Panel
+<br>Nov 13 in NYC: [Liquidity: The Final Frontier](https://www.eventbrite.com/e/liquidity-the-final-frontier-tickets-80307101703?ref=eios)
 
 <br><b>Past</b>
 <br>October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
