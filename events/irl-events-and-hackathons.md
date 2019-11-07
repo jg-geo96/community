@@ -1,9 +1,10 @@
 <br><b>Upcoming</b>
-<br>October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
-<br>October 28-29 at UC Berkeley: [Hart Lambur presents UMA's Decentralized Verification Mechanism at CESC](https://cesc.io)
-<br>November 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
+<br>Nov 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
+<br>Nov 13 in NYC: CoinShares presents Interoperability Panel
 
 <br><b>Past</b>
+<br>October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
+<br>October 28-29 at UC Berkeley: [Hart Lambur presents UMA's Decentralized Verification Mechanism at CESC](https://cesc.io)
 <br>October 24 in NY: [dlab roundtable](https://www.eventbrite.com/e/dlab-deep-dives-tickets-75203047339)
 <br>October 17 in NYC: Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens, [Video](https://youtu.be/5Ky78wFFHjk)
 <br>October 14-15 in Beijing: Dragonfly Crypto Summit
