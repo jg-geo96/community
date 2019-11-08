@@ -2,9 +2,11 @@
 <br>- Friday night, 9:30-9:55pm: How to use UMA to build tokens that track the price of anything (Regina Cai in Lazaridis Room)
 <br>- Saturday afternoon, 3:00-3:25pm: UMA’s DVM: Using Economic Guarantees to Build a Provable Honest Oracle (Hart Lambur in Napolean Room)
 
-<br><b>Tutorials</b>
+<br><b>Documentation and Tutorials</b>
+<br>The [UMA documentation site](https://docs.umaproject.org) has various resources to help you understand and interact with the system.
 <br>For a tutorial on how to create tokens locally, check out this [link](https://docs.umaproject.org/uma/tutorials/creating-tokens-locally.html).
-<br>For a tutorial on how to customize your own tokens, check out this [link](https://docs.umaproject.org/uma/tutorials/customizing-tokens-via-cli.html).
+<br>For a tutorial on how to create highly customized tokens, check out this [link](https://docs.umaproject.org/uma/tutorials/customizing-tokens-via-cli.html).
+<br>For a tutorial on how to deploy a custom price feed for your token, check out this [link](https://docs.umaproject.org/uma/tutorials/deploy-your-own-price-feed.html).
 <br>You can try using the [Synthetic Token Builder](https://tokenbuilder.umaproject.org/) to better understand how a token facility is created.
 
 <br><b>Bounties</b>
