@@ -3,6 +3,7 @@
 Below is a collection of resources for anyone interested in exploring UMA with beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
 
 <br><b>2019 Interviews, podcasts, and press</b>
+<br>Nov 11: [The DeFi Podcast #5](https://medium.com/defi-school/developing-standards-for-universal-market-access-featuring-allison-lu-of-monolith-%EF%B8%8F-6ab171cd157a)
 <br>Oct 22: [TheBlockCrypto: BitDEX](https://www.theblockcrypto.com/genesis/43900/bitdex-a-decentralized-exchange-for-perpetual-swaps)
 <br>Oct 21: [RelayNode NYC #24](https://www.definancier.com/blog/2019/10/6/relaynode-new-york-city-may-13-4szr9-hegke-s5zxx-hkp9m-g5xz2-gachk-fkncp-d8bam-2azxd-nz6pe-fmk23-wdywx-grhly-sheye-5wztw)
 <br>Oct 15: [Huoxing coverage at Dragonfly Summit](https://m.huoxing24.com/newsdetailShare/20191016004957841961.html?from=singlemessage&isappinstalled=0)
