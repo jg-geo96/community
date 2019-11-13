@@ -3,6 +3,7 @@
 Below is a collection of resources for anyone interested in exploring UMA with beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
 
 <br>Join our [developer slack](https://join.slack.com/t/umaprotocol/shared_invite/enQtNTk4MjQ4ODY0MDA1LTM4ODg0NGZhYWZkNjkzMDE4MjU0ZGFlYWQzZTFiZWFlZjI2NDE4OGI2NWY3OTdhYjYyZjg0MjAzMTgwODVhZTE) to be part of the conversation
+<br>View our [documentation](www.docs.umaproject.org)
 
 <br><b>2019 Interviews, podcasts, and press</b>
 <br>Nov 12: [DeFi Rate on BitDEX](https://defirate.com/bitdex/)
