@@ -2,6 +2,8 @@
 
 Below is a collection of resources for anyone interested in exploring UMA with beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
 
+<br>Join our [developer slack](https://join.slack.com/t/umaprotocol/shared_invite/enQtNTk4MjQ4ODY0MDA1LTM4ODg0NGZhYWZkNjkzMDE4MjU0ZGFlYWQzZTFiZWFlZjI2NDE4OGI2NWY3OTdhYjYyZjg0MjAzMTgwODVhZTE) to be part of the conversation
+
 <br><b>2019 Interviews, podcasts, and press</b>
 <br>Nov 12: [DeFi Rate on BitDEX](https://defirate.com/bitdex/)
 <br>Nov 11: [The DeFi Podcast #5](https://medium.com/defi-school/developing-standards-for-universal-market-access-featuring-allison-lu-of-monolith-%EF%B8%8F-6ab171cd157a)
@@ -21,7 +23,6 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>Read our [whitepapers](https://github.com/UMAprotocol/whitepaper) - last updated July 11, 2019
 <br>Read our [research paper](https://twitter.com/UMAprotocol/status/1179045704918011906) on using priceless contract design to build a decentralized BitMEX - last updated Sep 30, 2019
 <br>Create a Rinkeby custom token using the Synthetic Token Builder [tool](http://tokenbuilder.umaproject.org), [intro](https://medium.com/uma-project/announcing-the-uma-synthetic-token-builder-8bf37c645e94)
-<br>Join our [developer slack](https://join.slack.com/t/umaprotocol/shared_invite/enQtNTk4MjQ4ODY0MDA1LTM4ODg0NGZhYWZkNjkzMDE4MjU0ZGFlYWQzZTFiZWFlZjI2NDE4OGI2NWY3OTdhYjYyZjg0MjAzMTgwODVhZTE) to be part of the conversation
 <br>Oct 25: [Interaxis video explainer](https://www.youtube.com/watch?v=eiQckeh4szU)
 <br>Sep 11: [DeFi Prime Interview](https://defiprime.com/uma)
 <br>August 8: [Adding Economic Guarantees to Blockchain Oracles](https://medium.com/uma-project/umas-data-verification-mechanism-3c5342759eb8)
