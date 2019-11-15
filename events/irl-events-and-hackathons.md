@@ -1,8 +1,10 @@
 <br><b>Upcoming</b>
-<br>Nov 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
-<br>Nov 13 in NYC: [Liquidity: The Final Frontier](https://www.eventbrite.com/e/liquidity-the-final-frontier-tickets-80307101703?ref=eios)
+<br>Nov 21 1pm ET: [MCD conference call](https://medium.com/crypto-oracle/the-massive-potential-of-multi-collateral-dai-conference-call-november-21-1pm-2pm-est-6204a7d5ec66)
 
 <br><b>Past</b>
+<br>Nov 13 in NYC: [Liquidity: The Final Frontier, video](https://drive.google.com/file/d/1OlHolwkkot1OtZe40wSNVBYTe7aKpITo/view)
+<br>Nov 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
+<br>October 30 in SF: macro.wtf
 <br>October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
 <br>October 28-29 at UC Berkeley: [Hart Lambur presents UMA's Decentralized Verification Mechanism at CESC](https://cesc.io)
 <br>October 24 in NY: [dlab roundtable](https://www.eventbrite.com/e/dlab-deep-dives-tickets-75203047339)
