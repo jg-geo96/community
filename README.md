@@ -16,6 +16,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>Sep 21: [DeFiNation, video](https://www.facebook.com/claytonroche/videos/10100166889050346/)
 <br>Sep 19: [Crypto AMA w/SpencerNoon, written](https://t.me/c/1477285922/4102)
 <br>Sep 12: [TheBlockCrypto: "Coinbase-backed startup now enables users to tokenize the price of anything"](https://www.theblockcrypto.com/linked/39355/a-coinbase-backed-startup-now-enables-users-to-tokenize-the-price-of-anything/)
+<br> Sep 7: [Intro to Synthetics](https://medium.com/zenith-ventures/synthetic-assets-in-defi-use-cases-opportunities-19b11f57a776)
 <br>June 11: [WyreTalks ep.38: UMA, the Primitive for Tokenized Financial Exposure](https://wyre-talks.simplecast.com/episodes/ep-38-uma-the-primitive-for-tokenized-7vXX_xPm)
 <br>May 16: [BorderlessCrypto ep. 4](https://t.co/bdRlx2yfir?amp=1)
 <br>April 13: [CruxofCrypto ep.5: Creating Synthetic Derivatives on the Blockchain](http://cruxofcrypto.com/e05-creating-synthetic-derivatives-on-the-blockchain-with-hart-lambur-of-uma/)
