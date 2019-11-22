@@ -1,7 +1,8 @@
 <br><b>Upcoming</b>
-<br>Nov 21 1pm ET: [MCD conference call](https://medium.com/crypto-oracle/the-massive-potential-of-multi-collateral-dai-conference-call-november-21-1pm-2pm-est-6204a7d5ec66)
+
 
 <br><b>Past</b>
+<br>Nov 21 1pm ET: [MCD conference call](https://www.youtube.com/watch?v=BcQKQGB13s4#action=share)
 <br>Nov 13 in NYC: [Liquidity: The Final Frontier, video](https://drive.google.com/file/d/1OlHolwkkot1OtZe40wSNVBYTe7aKpITo/view)
 <br>Nov 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
 <br>October 30 in SF: macro.wtf
