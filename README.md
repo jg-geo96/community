@@ -6,6 +6,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>View our [documentation](https://docs.umaproject.org/uma/index.html)
 
 <br><b>2019 Interviews, podcasts, and press</b>
+<br>Nov 18: [Potential of MCD Conf Call](https://www.youtube.com/watch?v=BcQKQGB13s4#action=share)
 <br>Nov 12: [DeFi Rate on BitDEX](https://defirate.com/bitdex/)
 <br>Nov 11: [The DeFi Podcast #5](https://medium.com/defi-school/developing-standards-for-universal-market-access-featuring-allison-lu-of-monolith-%EF%B8%8F-6ab171cd157a)
 <br> Oct 28: [SFBW Talk](https://youtu.be/Ry-vXeJKKmA)
