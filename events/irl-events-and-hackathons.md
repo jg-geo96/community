@@ -12,8 +12,8 @@
 <br>October 17 in NYC: Building a bitcoin/USD yield curve with Keep Network, UMA, Uniswap, and yTokens, [Video](https://youtu.be/5Ky78wFFHjk)
 <br>October 14-15 in Beijing: Dragonfly Crypto Summit
 <br>Oct 8-11 at Devcon5 Osaka
-<br>Room B2: Building Synthetic Derivatives on Ethereum, [Slides](https://docsend.com/view/3v6t329)
-<br>Hall D: BitDEX: Building a Decentralized BitMEX, [Slides](https://docs.google.com/presentation/d/19SuDaniZD7alZVsPDHIIpHBVKRJfMe9bRFVnBqqIoJA/edit?usp=sharing)
+<br>Room B2: Building Synthetic Derivatives on Ethereum, [Slides](https://docsend.com/view/3v6t329) and [Video](https://www.youtube.com/watch?v=TjeB27zIn4g)
+<br>Hall D: BitDEX: Building a Decentralized BitMEX, [Slides](https://docs.google.com/presentation/d/19SuDaniZD7alZVsPDHIIpHBVKRJfMe9bRFVnBqqIoJA/edit?usp=sharing) and [Video](https://www.youtube.com/watch?v=4Uwznzfne1w)
 <br>Oct 7 in Osaka: The path from overcollateralization to undercollateralization, [video at 6:16](https://youtu.be/M8fBFhi-EE0)
 <br> Oct 5 in Tokyo: [node.tokyo How to scale DeFi to $T of value](https://nodetokyo.jp/schedule/)
 <br>Oct 3 in NYC: [DeFi NYC: Demo Day](https://www.meetup.com/DeFiNYC/events/265090673/)
