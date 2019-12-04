@@ -1,9 +1,10 @@
 <br><b>Upcoming</b>
-
+Dec 5 in NYC: Tachyon Founder Stories panel & networking
 
 <br><b>Past</b>
 <br>Nov 21 1pm ET: [MCD conference call](https://www.youtube.com/watch?v=BcQKQGB13s4#action=share)
 <br>Nov 13 in NYC: [Liquidity: The Final Frontier, video](https://drive.google.com/file/d/1OlHolwkkot1OtZe40wSNVBYTe7aKpITo/view)
+<br>Nov 11 in Toronto: ETHC DeFi Panel
 <br>Nov 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
 <br>October 30 in SF: macro.wtf
 <br>October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
