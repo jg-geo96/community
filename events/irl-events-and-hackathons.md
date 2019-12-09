@@ -1,11 +1,12 @@
 <br><b>Upcoming</b>
-Dec 5 in NYC: Tachyon Founder Stories panel & networking
+
 
 <br><b>Past</b>
+<br>Dec 5 in NYC: Tachyon Founder Stories panel & networking
 <br>Nov 21 1pm ET: [MCD conference call](https://www.youtube.com/watch?v=BcQKQGB13s4#action=share)
 <br>Nov 13 in NYC: [Liquidity: The Final Frontier, video](https://drive.google.com/file/d/1OlHolwkkot1OtZe40wSNVBYTe7aKpITo/view)
 <br>Nov 11 in Toronto: ETHC DeFi Panel
-<br>Nov 8-10 at U. Waterloo: [ETHWaterloo Hackathon](https://ethwaterloo.com/)
+<br>Nov 8-10 at U. Waterloo: [ETHWaterloo - Oracle TechTalk](https://www.youtube.com/watch?v=9tmAygPYriI&list=PLXzKMXK2aHh5MUIMJNzVQ4DevyRmrAGE0&index=45)
 <br>October 30 in SF: macro.wtf
 <br>October 28 in SF: [Compound: Thesis II](https://www.eventbrite.com/e/compound-thesis-ii-tickets-74043679639)
 <br>October 28-29 at UC Berkeley: [Hart Lambur presents UMA's Decentralized Verification Mechanism at CESC](https://cesc.io)
@@ -23,7 +24,7 @@ Dec 5 in NYC: Tachyon Founder Stories panel & networking
 <br>Sep 10-11 in London: [How to scale DeFi to $T of value](https://defisumm.it), [Video](https://www.youtube.com/watch?v=T-AbXAeTKtQ)
 <br>Sep 10-11 in London: [How to build synthetic derivatives on Ethereum](https://defisumm.it), [Video](https://www.youtube.com/watch?v=KxL4oJN4Adw&list=PLhbK0NpGv8dWsjLpYA-OM4gQk-GdQe7X2&index=14&t=190s)
 <br>Sep 10 in London: [Who really cares about decentralization anyway?](https://www.meetup.com/0xCommunity/events/264324368/), [Video](https://www.youtube.com/watch?v=i_-ujemOF7Y&feature=youtu.be)
-<br>Sep 6-8 at [ETH Boston Hackathon + DeFi panel + workshop](https://eth.boston/#schedule), [Bounty submissions](https://ethboston.devpost.com/submissions/search?utf8=✓&prize_filter%5Bprizes%5D%5B%5D=31158)
+<br>Sep 6-8 at [ETH Boston Oracle TechTalk](https://www.youtube.com/watch?v=Qe85PsrS7Ho)
 <br>August 15 in SF: Cross-Chain Summit
 <br>August 6 in NYC: [Blockchain DebateX](https://www.eventbrite.com/e/two-sigma-ventures-presents-debatex-blockchain-tickets-65440677829?)
 <br>July 31 at CryptoNYC [Adding Economic Guarantees to Blockchain Oracles](https://www.meetup.com/Crypto-NYC/events/263295980/?rv=me1&_xtd=gatlbWFpbF9jbGlja9oAJDI1MTE0MmI5LTI0ZjEtNDQ1NC04MjUzLWI3MjcxZTQ2NGY4Yg&_af=event&_af_eid=263295980)
