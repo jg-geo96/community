@@ -1,8 +1,7 @@
 <br><b>Upcoming</b>
-<br>Feb 7, 2020 in SF: Tokenizing Traditional Assets Panel at 0xpo [Agenda](https://www.0xpo.com/)
-
 
 <br><b>Past</b>
+<br>Feb 7, 2020 in SF: Tokenizing Traditional Assets Panel at 0xpo [Agenda](https://www.0xpo.com/)
 <br>Dec 5 in NYC: Tachyon Founder Stories panel & networking
 <br>Nov 21 1pm ET: [MCD conference call](https://www.youtube.com/watch?v=BcQKQGB13s4#action=share)
 <br>Nov 13 in NYC: [Liquidity: The Final Frontier, video](https://drive.google.com/file/d/1OlHolwkkot1OtZe40wSNVBYTe7aKpITo/view)
