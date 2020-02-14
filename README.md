@@ -15,7 +15,7 @@ Below is a collection of resources for anyone interested in exploring UMA with b
 <br>Oct 15: [Huoxing coverage at Dragonfly Summit](https://m.huoxing24.com/newsdetailShare/20191016004957841961.html?from=singlemessage&isappinstalled=0)
 <br>Sep 24: [MakerDAO Community Call demo'ing Synthetic Token Builder](https://www.reddit.com/r/MakerDAO/comments/d8agu0/meeting_makerdao_community_calltuesday_september/)
 <br>Sep 21: [DeFiNation, video](https://www.facebook.com/claytonroche/videos/10100166889050346/)
-<br>Sep 19: [Crypto AMA w/SpencerNoon, written](https://t.me/c/1477285922/4102)
+<br>Sep 19: [Crypto AMA w/SpencerNoon, written](https://cryptoama.substack.com/p/crypto-ama-with-uma-91919?r=385bj&utm_campaign=post&utm_medium=web&utm_source=copy)
 <br>Sep 12: [TheBlockCrypto: "Coinbase-backed startup now enables users to tokenize the price of anything"](https://www.theblockcrypto.com/linked/39355/a-coinbase-backed-startup-now-enables-users-to-tokenize-the-price-of-anything/)
 <br> Sep 7: [Intro to Synthetics](https://medium.com/zenith-ventures/synthetic-assets-in-defi-use-cases-opportunities-19b11f57a776)
 <br>June 11: [WyreTalks ep.38: UMA, the Primitive for Tokenized Financial Exposure](https://wyre-talks.simplecast.com/episodes/ep-38-uma-the-primitive-for-tokenized-7vXX_xPm)
