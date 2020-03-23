@@ -1,4 +1,5 @@
 <br><b>Upcoming</b>
+<br>March 30, 2020: Monolith Digital #DeFi Meetup [Meetup](https://www.meetup.com/monolith/events/269605712)
 <br>May 1-2, 2020: DeFi Full-Stack [Agenda](https://defi-fullstack.dystopialabs.com/)
 
 <br><b>Past</b>
